@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=doddyaditya&color=green)
 
-🏠 Based in **Indonesia**
+🏠 Based in **Indonesia** Open to Remote Opportunities
 
 👨‍💻 I’m currently learning **smart contract development on EVM based compatible blockchain using solidity**
 
