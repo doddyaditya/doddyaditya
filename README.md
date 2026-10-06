@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doddy</h1>
+<h3 align="center">Aspiring smart contract developer specializing in Solidity</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=doddyaditya&label=Profile%20views&color=0e75b6&style=flat" alt="doddyaditya" /> <h3 align="center">Aspiring smart contract developer specializing in Solidity</h3></p>
+![](https://komarev.com/ghpvc/?username=doddyaditya&color=green)
 
 🏠 Based in **Indonesia**
 
